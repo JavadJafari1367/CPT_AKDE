@@ -15,12 +15,7 @@ Validation\Test2drandom.m
 
 
 
-Contact: 
+Contact: Mobile.j.jafari@gmail.com
+Mobile: +989021101215
 
-Hardware requirements: ...
-
-Program language: ...
-
-Software required: ...
-
-Program size: ...
+Program language: Matlab
